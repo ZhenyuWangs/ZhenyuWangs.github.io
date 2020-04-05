@@ -99,7 +99,7 @@ service-worker: true
 
 
 # Friends
-常用网站连接: [
+Friends: [
     {
         title: "快搜",
         href: "https://search.chongbuluo.com/"
