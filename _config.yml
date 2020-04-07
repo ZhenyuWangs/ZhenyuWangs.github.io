@@ -100,7 +100,7 @@ service-worker: true
 
 
 # Friends
-Friends: [
+friends: [
     {
         title: "快搜",
         href: "https://search.chongbuluo.com/"
