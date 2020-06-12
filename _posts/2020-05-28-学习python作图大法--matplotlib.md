@@ -4,7 +4,7 @@ title:      学习python作图大法————matplotlib~
 subtitle:   一个专门用来做高大上的图表的库~
 date:       2020-05-28
 author:     David
-header-img: /img/pict/FormentorHolidays.jpg
+header-img: pict/FormentorHolidays.jpg
 catalog: true
 tags:
     - Blog
