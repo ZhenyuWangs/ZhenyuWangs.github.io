@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      正则表达式
+subtitle:   Regular Expression
+date:       2020-06-12
+author:     David
+header-img: pict/GreatReefDay.jpg
+catalog: true
+tags:
+    - Blog
+    - Life
+    - Python
+---
 # Python 正则表达 RegEx
 
 ## 导入模块

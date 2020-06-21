@@ -1,3 +1,23 @@
+---
+layout:     post
+title:      多线程
+subtitle:   Multithreading
+date:       2020-06-12
+author:     David
+header-img: pict/FalklandRockhoppers.jpg
+catalog: true
+tags:
+    - Blog
+    - Life
+    - Python
+---
+## 前言
+
+莫烦的python学习笔记
+
+用jupyter notebook写的，输出格式里面有md的，所以直接就导入了
+
+## 正文
 ```python
 import threading
 
