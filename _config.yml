@@ -55,6 +55,7 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
+  #extensions: generate_toc
 
 
 
